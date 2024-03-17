@@ -1,0 +1,4 @@
+mujoco/*
+!mujoco/PKGBUILD
+pinocchio-git/*
+!pinocchio-git/PKGBUILD
